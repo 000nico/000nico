@@ -62,14 +62,9 @@ I play <b>guitar</b>, <b>bass</b>, and <b>drums</b> — and I record & produce m
 
 ---
 
-<h2>🛠 Tools</h2>
+<h2 align="center">🛠 Tools</h2>
 
-<p>
-🟦 <b>Visual Studio Code</b><br>
-🟪 <b>Visual Studio</b>
-</p>
-
-<p>
+<p align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="nofollow">
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </a>
