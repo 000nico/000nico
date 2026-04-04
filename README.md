@@ -48,6 +48,16 @@ i primarly code on low level languages as a hobby
 
 ---
 
+<h4 align="center">operating systems</h4>
+<p align="center">
+<a href="https://www.microsoft.com/windows" target="_blank" rel="nofollow"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="nofollow"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+</p>
+
+
+---
+
+
 <p align="center">
 <i>"May all your desires come true."</i>
 </p>
