@@ -10,7 +10,6 @@ i primarly code on low level languages as a hobby
 <h4 align="center">languages</h4>
 <p align="center">
 <a href="https://isocpp.org/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-%23F5792A.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="nofollow"><img alt="C" src="https://img.shields.io/badge/C-2b2b2b?style=flat-square&logo=c&logoColor=%23A8B9CC" /></a>
 <a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
 </p>
