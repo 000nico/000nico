@@ -11,6 +11,7 @@
 <a href="https://isocpp.org/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-%23F5792A.svg?style=flat&logo=c%2B%2B&logoColor=white" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="nofollow"><img alt="Rust" src="https://img.shields.io/badge/Rust-7B3F00?style=flat&logo=rust&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="nofollow"><img alt="C" src="https://img.shields.io/badge/C-2D3E50?style=flat&logo=c&logoColor=A8B9CC" /></a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="nofollow"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-3A3A3A?style=flat&logoColor=white" /></a>
 <a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=openjdk&logoColor=white" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
 </p>
@@ -46,7 +47,6 @@
 <a href="https://www.cheatengine.org" target="_blank" rel="nofollow"><img alt="Cheat Engine" src="https://img.shields.io/badge/Cheat%20Engine-2E2E2E?style=flat" /></a>
 <a href="https://x64dbg.com" target="_blank" rel="nofollow"><img alt="x64dbg" src="https://img.shields.io/badge/x64dbg-1C1C1C?style=flat" /></a>
 <a href="https://processhacker.sourceforge.io" target="_blank" rel="nofollow"><img alt="Process Hacker" src="https://img.shields.io/badge/Process%20Hacker-2D2D2D?style=flat" /></a>
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="nofollow"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-3A3A3A?style=flat&logoColor=white" /></a>
 </p>
 
 ---
