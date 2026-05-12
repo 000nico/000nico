@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-<i>"むこう岸が視る夢."</i>
+<i>"lateral thinker"</i>
 </p>
