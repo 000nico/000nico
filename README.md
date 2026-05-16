@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-<i>"lateral thinker"</i>
+<i>"mov rax, 0xDEADBEEF"</i>
 </p>
