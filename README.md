@@ -24,7 +24,6 @@
 <h4 align="center">frameworks</h4>
 <p align="center">
 <a href="https://angular.io/" target="_blank" rel="nofollow"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /></a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="nofollow"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="nofollow"><img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" /></a>
 </p>
 
