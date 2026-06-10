@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-<i>"mov rax, 0xDEADBEEF"</i>
+<i>"i have been online since before i should have been and i will be online after most things have ended."</i>
 </p>
