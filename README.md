@@ -8,6 +8,7 @@
 
 <h4 align="center">languages</h4>
 <p align="center">
+<a href="https://www.rust-lang.org/" target="_blank" rel="nofollow"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-%23F5792A.svg?style=flat&logo=c%2B%2B&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="nofollow"><img alt="C" src="https://img.shields.io/badge/C-2D3E50?style=flat&logo=c&logoColor=A8B9CC" /></a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="nofollow"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-3A3A3A?style=flat&logoColor=white" /></a>
@@ -33,6 +34,7 @@
 <p align="center">
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="nofollow"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="nofollow"><img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="nofollow"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" /></a>
 <a href="https://unity.com/" target="_blank" rel="nofollow"><img alt="Unity" src="https://img.shields.io/badge/Unity-111111?style=flat&logo=unity&logoColor=white" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="nofollow"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
 </p>
