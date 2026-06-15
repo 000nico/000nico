@@ -1,4 +1,5 @@
 # hi there, i'm nico 👋 🇦🇷
+> i'm interested in low-level programming, reverse engineering, breaking things apart to understand how they work
 - 🏢 i'm currently studying a university technical degree in programming at UTN (National Technological University) in Argentina
 - 🐬 i started coding at 13y/o, and it was a fun adventure ever since
 - 📫 how to reach me: nicolascarlino@proton.me
