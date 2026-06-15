@@ -19,6 +19,9 @@
 <p align="center">
 <a href="https://www.w3.org/html" target="_blank" rel="nofollow"><img alt="HTML" src="https://img.shields.io/badge/HTML5-B33000?style=flat&logo=html5&logoColor=white" /></a>
 <a href="https://www.w3schools.com/css" target="_blank" rel="nofollow"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" /></a>
+<p align="center">
+<a href="https://www.mysql.com/" target="_blank" rel="nofollow"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
+</p>
 </p>
 
 ---
@@ -38,6 +41,9 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="nofollow"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" /></a>
 <a href="https://unity.com/" target="_blank" rel="nofollow"><img alt="Unity" src="https://img.shields.io/badge/Unity-111111?style=flat&logo=unity&logoColor=white" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="nofollow"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="nofollow"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
+<a href="https://www.notion.com/" target="_blank" rel="nofollow"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
+<a href="https://obsproject.com/" target="_blank" rel="nofollow"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white" /></a>
 </p>
 
 ---
