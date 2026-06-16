@@ -71,7 +71,7 @@
 </p>
 
 <p align="left">
-- <a href="https://github.com/000nico/universal-disassembler">Universal Disassembler</a>: Dissassembler with suppor of PE, MACH-O, ELF and RAW
+- <a href="https://github.com/000nico/universal-disassembler">Universal Disassembler</a>: Dissassembler with support of PE, MACH-O, ELF and RAW
 <br><br>
 - <a href="https://github.com/000nico/process-proxy-hijacking">Process Proxy Hijacking</a>: Hijack a process with a desired HANDLE, so you can read/write memory without opening a new one.
 <br><br>
