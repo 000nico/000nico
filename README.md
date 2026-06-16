@@ -66,6 +66,15 @@
 
 ---
 
-<p align="center">
-<i>"i have been online since before i should have been and i will be online after most things have ended."</i>
+<p align="left">
+<i>Please take a look on some of my projects:</i>
 </p>
+
+<p align="left">
+<a href="https://github.com/000nico/process-proxy-hijacking">Process Proxy Hijacking</a>: A low-level Windows project exploring process manipulation, proxy DLL techniques and system internals.
+<br><br>
+<a href="https://github.com/000nico/band-4-window-creation">Band 4 Window Creation</a>: A Windows project focused on window creation and low-level WinAPI interaction.
+<br><br>
+<a href="https://github.com/000nico/instrumentation-callback-injection">Instrumentation Callback Injection</a>: A Windows internals project exploring instrumentation callbacks and process execution monitoring.
+</p>
+
