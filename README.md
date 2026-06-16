@@ -75,6 +75,3 @@
 <br><br>
 - <a href="https://github.com/000nico/process-proxy-hijacking">Process Proxy Hijacking</a>: Hijack a process with a desired HANDLE, so you can read/write memory without opening a new one.
 <br><br>
-- <a href="https://github.com/000nico/band-4-window-creation">Band 4 Window Creation</a>: Create window in band 4 by injecting shellcode into <code>explorer.exe</code>
-<br><br>
-- <a href="https://github.com/000nico/instrumentation-callback-injection">Instrumentation Callback Injection</a>: Execute shell-code without new threads. Low detection vectors
