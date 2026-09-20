@@ -1,5 +1,5 @@
 # hi there, i'm nicolás 👋 🇦🇷
-> i'm interested in low-level programming, reverse engineering, breaking things apart to understand how they work
+> i'm interested in low-level programming, reverse engineering, kernel programming, hypervisors. breaking things apart to understand how they work
 - i'm currently studying a university technical degree in programming at UTN (National Technological University) in Argentina
 - i started coding at 13y/o, and it was a fun adventure ever since
 - how to reach me: nicolascarlino@proton.me
@@ -13,6 +13,7 @@
 <a href="https://www.rust-lang.org/" target="_blank" rel="nofollow"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-%23F5792A.svg?style=flat&logo=c%2B%2B&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="nofollow"><img alt="C" src="https://img.shields.io/badge/C-2D3E50?style=flat&logo=c&logoColor=A8B9CC" /></a>
+<a href="https://c3-lang.org/" target="_blank" rel="nofollow"><img alt="C3" src="https://img.shields.io/badge/C3-1A1A2E?style=flat&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="nofollow"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-3A3A3A?style=flat&logoColor=white" /></a>
 <a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=openjdk&logoColor=white" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
@@ -39,10 +40,12 @@
 <p align="center">
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="nofollow"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="nofollow"><img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /></a>
+<a href="https://zed.dev/" target="_blank" rel="nofollow"><img alt="Zed" src="https://img.shields.io/badge/Zed-084CCF?style=flat&logo=zedindustries&logoColor=white" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="nofollow"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" /></a>
 <a href="https://unity.com/" target="_blank" rel="nofollow"><img alt="Unity" src="https://img.shields.io/badge/Unity-111111?style=flat&logo=unity&logoColor=white" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="nofollow"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="nofollow"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
+<a href="https://www.vmware.com/" target="_blank" rel="nofollow"><img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" /></a>
 <a href="https://www.notion.com/" target="_blank" rel="nofollow"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
 <a href="https://obsproject.com/" target="_blank" rel="nofollow"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white" /></a>
 </p>
@@ -52,6 +55,7 @@
 <h4 align="center">security, reversing & low-level</h4>
 <p align="center">
 <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="nofollow"><img alt="IDA Pro" src="https://img.shields.io/badge/IDA%20Pro-2D2D2D?style=flat" /></a>
+<a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/" target="_blank" rel="nofollow"><img alt="WinDbg" src="https://img.shields.io/badge/WinDbg-0078D4?style=flat&logo=windows&logoColor=white" /></a>
 <a href="https://www.cheatengine.org" target="_blank" rel="nofollow"><img alt="Cheat Engine" src="https://img.shields.io/badge/Cheat%20Engine-2E2E2E?style=flat" /></a>
 <a href="https://x64dbg.com" target="_blank" rel="nofollow"><img alt="x64dbg" src="https://img.shields.io/badge/x64dbg-1C1C1C?style=flat" /></a>
 <a href="https://processhacker.sourceforge.io" target="_blank" rel="nofollow"><img alt="Process Hacker" src="https://img.shields.io/badge/Process%20Hacker-2D2D2D?style=flat" /></a>
