@@ -7,6 +7,11 @@
 - check my writeups here!: https://writeups.nicolas.rest/
 
 ---
+<div align="center">
+<img src="banner.jpg" alt="blue-pill" width="600" height="200">
+</div>
+
+--- 
 
 <h4 align="center">languages</h4>
 <p align="center">
