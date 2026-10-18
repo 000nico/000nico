@@ -1,10 +1,12 @@
 # hi there, i'm nicolás 👋 🇦🇷
-> i'm interested in low-level programming, reverse engineering, kernel programming, hypervisors. breaking things apart to understand how they work. i like to think on my own solutions :)
+> i'm interested in low-level programming, reverse engineering, kernel drivers, hypervisors, and compilers. i break things apart to understand how they work.
+
 - i'm currently studying a university technical degree in programming at UTN (National Technological University) in Argentina
 - i started coding at 13y/o, and it was a fun adventure ever since
 - how to reach me: nicolascarlino@proton.me
-- fun fact: i also play guitar, bass, and drums, and I record and produce my own songs
+- fun fact: i also play guitar, bass, and drums. I record and produce my own songs
 - check my writeups here!: https://writeups.nicolas.rest/
+- i like to write simple and readable code
 
 ---
 <div align="center">
