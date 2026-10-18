@@ -9,8 +9,11 @@
 - i like to write simple and readable code
 
 ---
+
 <div align="center">
-<img src="banner.jpg" alt="blue-pill" width="600" height="200">
+<a href="https://nicolas.rest" target="_blank">
+<img src="banner2.png" alt="blue-pill" width="600" height="300">
+</a>
 </div>
 
 --- 
