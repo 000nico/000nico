@@ -2,11 +2,12 @@
 > i'm interested in low-level programming, reverse engineering, kernel drivers, hypervisors, and compilers. i break things apart to understand how they work.
 
 - i'm currently studying a university technical degree in programming at UTN (National Technological University) in Argentina
-- i always loved journes. However, this journey started on february of 2026
+- i always loved computers. However, this journey started on february of 2026
 - how to reach me: nicolascarlino@proton.me
-- fun fact: i also play guitar, bass, and drums. I record and produce my own songs
-- check my writeups here!: https://writeups.nicolas.rest/
-- i like to write simple and readable code
+- fun fact: i also play guitar, bass, and drums. i record and produce my own songs
+- check my technical writeups & notes here!: https://writeups.nicolas.rest/
+- screamo enjoyer. my favorite band is "mis sueños son de tu adios"
+- i write simple & readable code. i usually dont enjoy abstractions. long & readable code > short & abstracted libraries
 
 ---
 
