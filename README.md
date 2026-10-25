@@ -39,6 +39,9 @@
 <p align="center">
 <a href="https://www.mysql.com/" target="_blank" rel="nofollow"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
 </p>
+<p align="center">
+<a href="https://doc.qt.io/qt-6/qmlapplications.html" target="_blank" rel="nofollow"><img alt="QML" src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white" /></a>
+</p>
 
 ---
 
