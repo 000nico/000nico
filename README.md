@@ -5,9 +5,8 @@
 - i always loved computers. However, this journey started on april of 2026
 - how to reach me: nicolascarlino@proton.me
 - fun fact: i also play guitar, bass, and drums. i record and produce my own songs
-- check my technical writeups & notes here!: https://writeups.nicolas.rest/
-- screamo enjoyer. my favorite band is "mis sueños son de tu adios"
-- i write simple & readable code. i usually dont enjoy abstractions. long & readable code > short & abstracted libraries
+- check my [writeups & notes](https://writeups.nicolas.rest/)!
+- screamo enjoyer. my favorite band is "[mis sueños son de tu adios](https://mssdta.bandcamp.com/album/cuatro-extractos-de)"
 
 ---
 
